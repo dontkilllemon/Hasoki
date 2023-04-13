@@ -1,0 +1,14 @@
+sudo apt-get install python3
+sudo apt-get install python3-pip
+pip3 install cloudscraper
+pip3 install socks
+pip3 install pysocks
+pip3 install colorama
+pip3 install httpx
+pip3 install undetected_chromedriver
+
+
+
+sudo apt-get install wget
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt-get install ./google-chrome-stable_current_amd64.de
